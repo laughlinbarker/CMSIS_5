@@ -1,0 +1,13 @@
+{
+  "name": "CMSIS_5",
+  "keywords": "arm, cmsis, dsp, linear algebra, math, RTOS",
+  "description": "Arm CMSIS library.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/laughlinbarker/CMSIS_5.git"
+  },
+  "version": "5.4.0",
+  "frameworks": "mbed",
+  "platforms": "*"
+}
